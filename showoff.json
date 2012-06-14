@@ -1,0 +1,1 @@
+{ "name": "Backbone Widgetry", "sections": [ {"section":"intro"}, {"section":"model"}, {"section": "collection"}, {"section": "view"}, {"section": "events"} ]}
